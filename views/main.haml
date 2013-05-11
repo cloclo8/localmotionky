@@ -1,0 +1,153 @@
+!!!
+/[if IE 8] <html class="no-js lt-ie9" lang="en">
+/ [if gt IE 8]><!
+%html.no-js{:lang => "en"}
+  / <![endif]
+  %head
+    %title LocalMotionKY
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}/
+    :javascript
+      var PUBLIC_HOST = "#{PUBLIC_HOST}"
+    %script{:src => "http://s3.amazonaws.com/mappyhealth-public/bootstrap/js/jquery.js"}
+    %script{:src => "http://s3.amazonaws.com/mappyhealth-public/showLoading/jquery.showLoading.min.js"}
+    %link{:href => "http://s3.amazonaws.com/mappyhealth-public/showLoading/showLoading.css", :rel => "stylesheet"}
+    - if settings.production?
+      %script{:src => "#{PUBLIC_HOST}/static/min.js"}
+      %link{:href => "#{PUBLIC_HOST}/static/min.css", :rel => "stylesheet"}
+    - else
+      != css :application, :media => 'screen'
+      != js :application
+
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-31592977-6']);
+      _gaq.push(['_setDomainName', 'socialhealthinsights.com']);
+      _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  %body
+    %nav.top-bar
+      %ul.title-area
+        %li.name
+          %h1
+            %a{:href => "#"}
+              LocalMotionKY (RedWhiteBlue Hackathon in DC)
+        %li.toggle-topbar.menu-icon
+          %a{:href => "#"}
+            %span menu
+      / %section.top-bar-section
+      /   %ul.right
+      /     %li.divider
+      /     %li.has-dropdown
+      /       %a{:href => "#"} Links
+      /       %ul.dropdown
+      /         %li
+      /           %a{:href => "http://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/DataAndReports.html", :target => "_blank"} Public Use CMS Data
+      /         %li
+      /           %a{:href => "http://www.socialhealthinsights.com", :target => "_blank"} Social Health Insights
+      /         %li
+      /           %a{:href => "http://www.mappyhealth.com", :target => "_blank"} MappyHealth
+      /     %li.divider
+      /     %li
+      /       %a
+
+    .row
+      %br/
+      %br/
+      .large-4.columns
+        %h5 About
+        %p
+          A Red White Blue Hack project using Louisville park and restaurant inspection data.
+
+        %h5 Legend
+        %ul.inline-list
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/restaurantgreen.png"}
+            &nbsp;&nbsp;
+            Restaurant w/ score of 90-100
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/restaurantyellow.png"}
+            &nbsp;&nbsp;
+            Restaurant w/ score of 75-89
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/restaurantred.png"}
+            &nbsp;&nbsp;
+            Restaurant w/ score less than 74
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/hiking.png"}
+            &nbsp;&nbsp;
+            Park w/ hiking
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/jogging.png"}
+            &nbsp;&nbsp;
+            Park w/ jogging/walking/running
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/playground.png"}
+            &nbsp;&nbsp;
+            Park w/ playground
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/soccer.png"}
+            &nbsp;&nbsp;
+            Park w/ soccer
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/tennis.png"}
+            &nbsp;&nbsp;
+            Park w/ tennis
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/usfootball.png"}
+            &nbsp;&nbsp;
+            Park w/ football
+          %li
+            %img.left{:src => "#{PUBLIC_HOST}/mapicons.nicolasmollet.com/volleyball.png"}
+            &nbsp;&nbsp;
+            Park w/ voleyball
+
+
+      .large-8.columns
+        #map
+        %br
+        %ul.inline-list.right
+          %li
+            %a.tiny.secondary.button{:href => "#", :onclick => "map.locate({setView:true})"} Zoom into my current location
+        .clear
+
+    :javascript
+      document.write('<script src=' +
+      ('__proto__' in {} ? '#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/vendor/zepto' : '#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/vendor/jquery') +
+      '.js><\/script>')
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation.min.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.alerts.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.clearing.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.cookie.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.dropdown.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.forms.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.joyride.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.magellan.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.orbit.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.placeholder.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.reveal.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.section.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.tooltips.js"}
+    %script{:src => "#{PUBLIC_HOST}/zurb-foundation-4.0.3/js/foundation/foundation.topbar.js"}
+    :javascript
+      $(document).foundation();
+
+      $(document).ready(function() {
+        map = new L.Map('map', {
+          center: [38.18638677411551, -85.7015991210937],
+          zoom: 11,
+          layers: [new L.tileLayer('http://{s}.tile.cloudmade.com/{key}/997/256/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '© 2013 <a target="_blank" href="http://cloudmade.com">CloudMade</a> - Map data <a target="_blank" href="http://creativecommons.org/licenses/by-sa/2.0/">CCBYSA</a> 2013 <a target="_blank" href="http://openstreetmap.org">OpenStreetMap.org</a> contributors - <a target="_blank" href="http://cloudmade.com/terms_conditions">Terms of Use</a>',
+            key: 'ed5940a5e0724173aba9da0d77368912'
+          })]
+        });
+        load_geojson_as_cluster("#{@default_data_url}",true)
+      });

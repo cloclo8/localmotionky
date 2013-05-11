@@ -1,0 +1,740 @@
+ParkID,ParkKey,DisplayName,Amenity,StreetAddr,City,State,ZipCode,Url,Telephone,Latitude,Longitude,NameSearch
+4103,1,35th Street,Basketball,814 35th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/35thstreet/,502-456-8100,38.2471798,-85.8102481,THSTREET
+4104,1,35th Street,Playground,814 35th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/35thstreet/,502-456-8100,38.2471798,-85.8102481,THSTREET
+4105,2,A.B. Sawyer,Ballfield,9300 Whipps Mill Rd,Louisville,KY,40242,http://www.louisvilleky.gov/MetroParks/parks/sawyer/,502-456-8100,38.2646132,-85.5804119,ABSAWYER
+4106,2,A.B. Sawyer,Football,9300 Whipps Mill Rd,Louisville,KY,40242,http://www.louisvilleky.gov/MetroParks/parks/sawyer/,502-456-8100,38.2646132,-85.5804119,ABSAWYER
+4107,2,A.B. Sawyer,Playground,9300 Whipps Mill Rd,Louisville,KY,40242,http://www.louisvilleky.gov/MetroParks/parks/sawyer/,502-456-8100,38.2646132,-85.5804119,ABSAWYER
+4108,2,A.B. Sawyer,Restrooms,9300 Whipps Mill Rd,Louisville,KY,40242,http://www.louisvilleky.gov/MetroParks/parks/sawyer/,502-456-8100,38.2646132,-85.5804119,ABSAWYER
+4109,2,A.B. Sawyer,Tennis,9300 Whipps Mill Rd,Louisville,KY,40242,http://www.louisvilleky.gov/MetroParks/parks/sawyer/,502-456-8100,38.2646132,-85.5804119,ABSAWYER
+4110,3,Algonquin,Ballfield,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4111,3,Algonquin,Basketball,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4112,3,Algonquin,Grill,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4113,3,Algonquin,Multi-purpose Field,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4114,3,Algonquin,Picnic Shelter,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4115,3,Algonquin,Picnic Table,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4116,3,Algonquin,Playground,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4117,3,Algonquin,Restrooms,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4118,3,Algonquin,Running,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4119,3,Algonquin,Sprayground,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4120,3,Algonquin,Swimming,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4121,3,Algonquin,Tennis,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4122,3,Algonquin,Volleyball,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4123,3,Algonquin,Walking,1614 Cypress St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/algonquin/,502-456-8100,38.2279429,-85.8019176,ALGONQUIN
+4126,5,Auburndale,Picnic Shelter,7260 Plantside Dr,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/auburndale/,502-456-8100,38.1495851,-85.7716845,AUBURNDALE
+4127,5,Auburndale,Picnic Table,7260 Plantside Dr,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/auburndale/,502-456-8100,38.1495851,-85.7716845,AUBURNDALE
+4128,5,Auburndale,Playground,7260 Plantside Dr,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/auburndale/,502-456-8100,38.1495851,-85.7716845,AUBURNDALE
+4129,5,Auburndale,Tennis,7260 Plantside Dr,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/auburndale/,502-456-8100,38.1495851,-85.7716845,AUBURNDALE
+4130,6,Ballard,Basketball,525 Caldwell St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/ballard/,502-456-8100,38.2393631,-85.7455814,BALLARD
+4131,6,Ballard,Playground,525 Caldwell St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/ballard/,502-456-8100,38.2393631,-85.7455814,BALLARD
+4132,7,Baxter Square,Basketball,301 S 12th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/baxtersquare/,502-456-8100,38.2545133,-85.7695455,BAXTERSQUARE
+4133,7,Baxter Square,Community Center,301 S 12th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/baxtersquare/,502-456-8100,38.2545133,-85.7695455,BAXTERSQUARE
+4134,7,Baxter Square,Picnic Shelter,301 S 12th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/baxtersquare/,502-456-8100,38.2545133,-85.7695455,BAXTERSQUARE
+4135,7,Baxter Square,Playground,301 S 12th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/baxtersquare/,502-456-8100,38.2545133,-85.7695455,BAXTERSQUARE
+4136,7,Baxter Square,Sprayground,301 S 12th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/baxtersquare/,502-456-8100,38.2545133,-85.7695455,BAXTERSQUARE
+4137,7,Baxter Square,Tennis,301 S 12th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/baxtersquare/,502-456-8100,38.2545133,-85.7695455,BAXTERSQUARE
+4138,8,Beargrass Creek Greenway at Irish Hill,Path,1917 Lexington Rd,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/beargrasscreekgreenway/,502-456-8100,38.2482809,-85.7076478,BEARGRASSCREEKGREENWAYATIRISHHILL
+4139,8,Beargrass Creek Greenway at Irish Hill,Running,1917 Lexington Rd,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/beargrasscreekgreenway/,502-456-8100,38.2482809,-85.7076478,BEARGRASSCREEKGREENWAYATIRISHHILL
+4140,8,Beargrass Creek Greenway at Irish Hill,Hiking Trail,1917 Lexington Rd,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/beargrasscreekgreenway/,502-456-8100,38.2482809,-85.7076478,BEARGRASSCREEKGREENWAYATIRISHHILL
+4141,8,Beargrass Creek Greenway at Irish Hill,Walking,1917 Lexington Rd,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/beargrasscreekgreenway/,502-456-8100,38.2482809,-85.7076478,BEARGRASSCREEKGREENWAYATIRISHHILL
+4142,9,Beechmont Tot Lot,Basketball,205 W Wellington Ave,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/beechmont/,502-456-8100,38.1842693,-85.7645084,BEECHMONTTOTLOT
+4143,9,Beechmont Tot Lot,Community Center,205 W Wellington Ave,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/beechmont/,502-456-8100,38.1842693,-85.7645084,BEECHMONTTOTLOT
+4144,9,Beechmont Tot Lot,Playground,205 W Wellington Ave,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/beechmont/,502-456-8100,38.1842693,-85.7645084,BEECHMONTTOTLOT
+4145,9,Beechmont Tot Lot,Tot Lot,205 W Wellington Ave,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/beechmont/,502-456-8100,38.1842693,-85.7645084,BEECHMONTTOTLOT
+4146,10,Bellevue,Playground,4711 Bellevue Ave,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/bellevue/,502-456-8100,38.1813819,-85.7738763,BELLEVUE
+4147,11,Ben Washer,Picnic Shelter,519 W Kentucky St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/washer/,502-456-8100,38.2400523,-85.7617038,BENWASHER
+4148,11,Ben Washer,Picnic Table,519 W Kentucky St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/washer/,502-456-8100,38.2400523,-85.7617038,BENWASHER
+4149,11,Ben Washer,Playground,519 W Kentucky St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/washer/,502-456-8100,38.2400523,-85.7617038,BENWASHER
+4150,12,Berrytown,Ballfield,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4151,12,Berrytown,Basketball,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4152,12,Berrytown,Grill,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4153,12,Berrytown,Horseshoe Pit,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4154,12,Berrytown,Picnic Shelter,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4155,12,Berrytown,Playground,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4156,12,Berrytown,Restrooms,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4157,12,Berrytown,Tennis,1300 Heafer Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/berrytown/,502-456-8100,38.2623676,-85.52344,BERRYTOWN
+4158,13,Bingham,Basketball,160 Coral Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bingham/,502-456-8100,38.2582553,-85.7097875,BINGHAM
+4159,13,Bingham,Picnic Table,160 Coral Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bingham/,502-456-8100,38.2582553,-85.7097875,BINGHAM
+4160,13,Bingham,Playground,160 Coral Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bingham/,502-456-8100,38.2582553,-85.7097875,BINGHAM
+4161,13,Bingham,Restrooms,160 Coral Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bingham/,502-456-8100,38.2582553,-85.7097875,BINGHAM
+4162,13,Bingham,Sprayground,160 Coral Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bingham/,502-456-8100,38.2582553,-85.7097875,BINGHAM
+4163,14,Black Mudd,Ballfield,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4164,14,Black Mudd,Basketball,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4165,14,Black Mudd,Grill,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4166,14,Black Mudd,Picnic Shelter,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4167,14,Black Mudd,Picnic Table,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4168,14,Black Mudd,Playground,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4169,14,Black Mudd,Tennis,1708 Rangeland Rd,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/blackmudd/,502-456-8100,38.1634571,-85.6699392,BLACKMUDD
+4170,15,Blue Lick,Basketball,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4171,15,Blue Lick,Grill,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4172,15,Blue Lick,Picnic Shelter,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4173,15,Blue Lick,Playground,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4174,15,Blue Lick,Running,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4175,15,Blue Lick,Tennis,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4176,15,Blue Lick,Walking,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4177,15,Blue Lick,Community Garden,100 Smith Ln,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/bluelick/,502-456-8100,38.0859439,-85.6858432,BLUELICK
+4178,16,Boone Square,Basketball,1935 Rowan St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/boonesquare/,502-456-8100,38.2614618,-85.7818384,BOONESQUARE
+4179,16,Boone Square,Picnic Shelter,1935 Rowan St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/boonesquare/,502-456-8100,38.2614618,-85.7818384,BOONESQUARE
+4180,16,Boone Square,Playground,1935 Rowan St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/boonesquare/,502-456-8100,38.2614618,-85.7818384,BOONESQUARE
+4181,16,Boone Square,Restrooms,1935 Rowan St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/boonesquare/,502-456-8100,38.2614618,-85.7818384,BOONESQUARE
+4182,16,Boone Square,Sprayground,1935 Rowan St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/boonesquare/,502-456-8100,38.2614618,-85.7818384,BOONESQUARE
+4183,17,Bradley,Grill,2516 Bradley Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/bradley/,502-456-8100,38.2077102,-85.7459281,BRADLEY
+4184,17,Bradley,Picnic Shelter,2516 Bradley Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/bradley/,502-456-8100,38.2077102,-85.7459281,BRADLEY
+4185,17,Bradley,Picnic Table,2516 Bradley Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/bradley/,502-456-8100,38.2077102,-85.7459281,BRADLEY
+4186,17,Bradley,Playground,2516 Bradley Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/bradley/,502-456-8100,38.2077102,-85.7459281,BRADLEY
+4187,18,Breslin,Picnic Table,1450 Lexington Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/breslin/,502-456-8100,38.2497165,-85.7195816,BRESLIN
+4188,18,Breslin,Playground,1450 Lexington Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/breslin/,502-456-8100,38.2497165,-85.7195816,BRESLIN
+4189,19,Buechel,Ballfield,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4190,19,Buechel,Basketball,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4191,19,Buechel,Grill,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4192,19,Buechel,Picnic Shelter,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4193,19,Buechel,Picnic Table,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4194,19,Buechel,Playground,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4195,19,Buechel,Tennis,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4196,19,Buechel,Walking,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4197,19,Buechel,Cricket Pitch,247 Alpha Ave,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/buechel/,502-456-8100,38.1942386,-85.635558,BUECHEL
+4198,20,California,Ballfield,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4199,20,California,Basketball,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4200,20,California,Community Center,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4201,20,California,Football,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4202,20,California,Multi-purpose Field,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4203,20,California,Playground,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4204,20,California,Running,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4205,20,California,Sprayground,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4206,20,California,Tennis,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4207,20,California,Volleyball,1600 W St Catherine St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/california/,502-456-8100,38.239369,-85.7810645,CALIFORNIA
+4208,21,Camp Taylor Memorial,Ballfield,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4209,21,Camp Taylor Memorial,Basketball,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4210,21,Camp Taylor Memorial,Grill,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4211,21,Camp Taylor Memorial,Horseshoe Pit,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4212,21,Camp Taylor Memorial,Memorial,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4213,21,Camp Taylor Memorial,Picnic Shelter,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4214,21,Camp Taylor Memorial,Picnic Table,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4215,21,Camp Taylor Memorial,Playground,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4216,21,Camp Taylor Memorial,Restrooms,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4217,21,Camp Taylor Memorial,Swimming,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4218,21,Camp Taylor Memorial,Walking,4201 Lee Ave,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/camptaylor/,502-456-8100,38.1973007,-85.7094173,CAMPTAYLORMEMORIAL
+4219,22,Cane Run,Ballfield,4816 Cane Run Rd,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/canerun/,502-456-8100,38.1827888,-85.8588642,CANERUN
+4220,22,Cane Run,Multi-purpose Field,4816 Cane Run Rd,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/canerun/,502-456-8100,38.1827888,-85.8588642,CANERUN
+4221,22,Cane Run,Soccer,4816 Cane Run Rd,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/canerun/,502-456-8100,38.1827888,-85.8588642,CANERUN
+4222,22,Cane Run,Walking,4816 Cane Run Rd,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/canerun/,502-456-8100,38.1827888,-85.8588642,CANERUN
+4223,23,Caperton Swamp,Hiking Trail,3916 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/caperton/,502-456-8100,38.2889667,-85.6795455,CAPERTONSWAMP
+4224,23,Caperton Swamp,Walking,3916 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/caperton/,502-456-8100,38.2889667,-85.6795455,CAPERTONSWAMP
+4225,23,Caperton Swamp,Passive Open Space,3916 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/caperton/,502-456-8100,38.2889667,-85.6795455,CAPERTONSWAMP
+4226,24,Carrie Gaulbert Cox,Boat Ramps & Landings,3730 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/cox/,502-456-8100,38.2854434,-85.6897712,CARRIEGAULBERTCOX
+4227,24,Carrie Gaulbert Cox,Picnic Table,3730 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/cox/,502-456-8100,38.2854434,-85.6897712,CARRIEGAULBERTCOX
+4228,24,Carrie Gaulbert Cox,Playground,3730 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/cox/,502-456-8100,38.2854434,-85.6897712,CARRIEGAULBERTCOX
+4229,24,Carrie Gaulbert Cox,Restrooms,3730 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/cox/,502-456-8100,38.2854434,-85.6897712,CARRIEGAULBERTCOX
+4230,24,Carrie Gaulbert Cox,Fishing w/River Frontage,3730 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/cox/,502-456-8100,38.2854434,-85.6897712,CARRIEGAULBERTCOX
+4231,24,Carrie Gaulbert Cox,Walking,3730 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/cox/,502-456-8100,38.2854434,-85.6897712,CARRIEGAULBERTCOX
+4232,25,Castlewood Open Space,Walking,1406 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/castlewood/,502-456-8100,38.2305577,-85.7211498,CASTLEWOODOPENSPACE
+4233,25,Castlewood Open Space,Passive Open Space,1406 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/castlewood/,502-456-8100,38.2305577,-85.7211498,CASTLEWOODOPENSPACE
+4234,26,Central,Amphitheater,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4235,26,Central,Memorial,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4236,26,Central,Picnic Table,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4237,26,Central,Playground,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4238,26,Central,Restrooms,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4239,26,Central,Sprayground,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4240,26,Central,Tennis,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4241,26,Central,Volleyball,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4242,26,Central,Pergola,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4243,26,Central,Arbor,1340 S 4th St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/central/,502-456-8100,38.2301195,-85.7631198,CENTRAL
+4244,27,Louisville Champions,Cross Country,2050 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/championspark/,502-456-8100,38.2686967,-85.710682,LOUISVILLECHAMPIONS
+4245,27,Louisville Champions,Field Hockey,2050 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/championspark/,502-456-8100,38.2686967,-85.710682,LOUISVILLECHAMPIONS
+4246,27,Louisville Champions,Restrooms,2050 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/championspark/,502-456-8100,38.2686967,-85.710682,LOUISVILLECHAMPIONS
+4247,27,Louisville Champions,Soccer,2050 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/championspark/,502-456-8100,38.2686967,-85.710682,LOUISVILLECHAMPIONS
+4248,27,Louisville Champions,Dog Run,2050 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/championspark/,502-456-8100,38.2686967,-85.710682,LOUISVILLECHAMPIONS
+4249,28,Charles Young,Walking,2721 Lytle St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/young/,502-456-8100,38.2715375,-85.7934259,CHARLESYOUNG
+4250,29,Charlie Vettiner,Ballfield,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4251,29,Charlie Vettiner,Basketball,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4252,29,Charlie Vettiner,Cross Country,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4253,29,Charlie Vettiner,Disc Golf,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4254,29,Charlie Vettiner,Fishing,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4255,29,Charlie Vettiner,Golf,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4256,29,Charlie Vettiner,Grill,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4257,29,Charlie Vettiner,Horseshoe Pit,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4258,29,Charlie Vettiner,Path,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4259,29,Charlie Vettiner,Picnic Shelter,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4260,29,Charlie Vettiner,Picnic Table,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4261,29,Charlie Vettiner,Playground,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4262,29,Charlie Vettiner,Restrooms,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4263,29,Charlie Vettiner,Running,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4264,29,Charlie Vettiner,Tennis,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4265,29,Charlie Vettiner,Volleyball,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4266,29,Charlie Vettiner,Walking,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4267,29,Charlie Vettiner,Dog Run,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4268,29,Charlie Vettiner,Model Airplane Flying Fields,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4269,29,Charlie Vettiner,Sledding,5550 Charlie Vettiner Park Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/vettiner/,502-456-8100,38.1712749,-85.5582772,CHARLIEVETTINER
+4270,30,Cherokee,Archery,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4271,30,Cherokee,Ballfield,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4272,30,Cherokee,Basketball,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4273,30,Cherokee,Fishing,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4274,30,Cherokee,Golf,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4275,30,Cherokee,Grill,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4276,30,Cherokee,Historic Property,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4277,30,Cherokee,Horseback Riding,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4278,30,Cherokee,Horseshoe Pit,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4279,30,Cherokee,Biking - Mountain,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4280,30,Cherokee,Picnic Shelter,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4281,30,Cherokee,Picnic Table,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4282,30,Cherokee,Playground,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4283,30,Cherokee,Restrooms,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4284,30,Cherokee,Running,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4285,30,Cherokee,Sprayground,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4286,30,Cherokee,Tennis,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4287,30,Cherokee,Hiking Trail,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4288,30,Cherokee,Walking,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4289,30,Cherokee,Wedding/Reception Site,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4290,30,Cherokee,Dog Run,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4291,30,Cherokee,Biking - Road,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4292,30,Cherokee,Sledding,745 Cochran Hill Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/cherokee/,502-456-8100,38.2432338,-85.6946687,CHEROKEE
+4293,31,Chickasaw,Ballfield,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4294,31,Chickasaw,Basketball,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4295,31,Chickasaw,Fishing,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4296,31,Chickasaw,Grill,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4297,31,Chickasaw,Horseshoe Pit,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4298,31,Chickasaw,Lodge,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4299,31,Chickasaw,Picnic Shelter,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4300,31,Chickasaw,Picnic Table,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4301,31,Chickasaw,Playground,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4302,31,Chickasaw,Restrooms,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4303,31,Chickasaw,Fishing w/River Frontage,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4304,31,Chickasaw,Sprayground,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4305,31,Chickasaw,Tennis,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4306,31,Chickasaw,Volleyball,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4307,31,Chickasaw,Walking,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4308,31,Chickasaw,Louisville Loop Access,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4309,31,Chickasaw,Biking - Road,1200 Southwestern Pkwy,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/chickasaw/,502-456-8100,38.242988,-85.8312841,CHICKASAW
+4310,32,Churchill,Ballfield,2649 Helm St,Louisville,KY,40209,http://www.louisvilleky.gov/MetroParks/parks/churchill/,502-456-8100,38.2073943,-85.7530491,CHURCHILL
+4311,32,Churchill,Playground,2649 Helm St,Louisville,KY,40209,http://www.louisvilleky.gov/MetroParks/parks/churchill/,502-456-8100,38.2073943,-85.7530491,CHURCHILL
+4312,33,Cliff,Playground,4666 Cliff Ave,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/cliff/,502-456-8100,38.1829999,-85.7769245,CLIFF
+4313,34,Clifton,Basketball,147 Charlton St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/clifton/,502-456-8100,38.2555193,-85.7195829,CLIFTON
+4314,34,Clifton,Grill,147 Charlton St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/clifton/,502-456-8100,38.2555193,-85.7195829,CLIFTON
+4315,34,Clifton,Picnic Table,147 Charlton St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/clifton/,502-456-8100,38.2555193,-85.7195829,CLIFTON
+4316,34,Clifton,Playground,147 Charlton St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/clifton/,502-456-8100,38.2555193,-85.7195829,CLIFTON
+4317,34,Clifton,Tennis,147 Charlton St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/clifton/,502-456-8100,38.2555193,-85.7195829,CLIFTON
+4318,35,Crescent Hill,Golf,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4319,35,Crescent Hill,Picnic Table,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4320,35,Crescent Hill,Playground,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4321,35,Crescent Hill,Running,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4322,35,Crescent Hill,Sprayground,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4323,35,Crescent Hill,Swimming,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4324,35,Crescent Hill,Tennis,201 Reservoir Ave,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/crescenthill/,502-456-8100,38.2593803,-85.680784,CRESCENTHILL
+4325,36,Crosby,Ballfield,11500 Cedardale Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/crosby/,502-456-8100,38.2513062,-85.5396421,CROSBY
+4326,36,Crosby,Picnic Shelter,11500 Cedardale Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/crosby/,502-456-8100,38.2513062,-85.5396421,CROSBY
+4327,36,Crosby,Picnic Table,11500 Cedardale Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/crosby/,502-456-8100,38.2513062,-85.5396421,CROSBY
+4328,36,Crosby,Playground,11500 Cedardale Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/crosby/,502-456-8100,38.2513062,-85.5396421,CROSBY
+4329,36,Crosby,Restrooms,11500 Cedardale Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/crosby/,502-456-8100,38.2513062,-85.5396421,CROSBY
+4330,36,Crosby,Tennis,11500 Cedardale Rd,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/crosby/,502-456-8100,38.2513062,-85.5396421,CROSBY
+4331,37,Des Pres,Ballfield,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4332,37,Des Pres,Basketball,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4333,37,Des Pres,Grill,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4334,37,Des Pres,Horseshoe Pit,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4335,37,Des Pres,Picnic Shelter,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4336,37,Des Pres,Picnic Table,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4337,37,Des Pres,Playground,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4338,37,Des Pres,Restrooms,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4339,37,Des Pres,Tennis,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4340,37,Des Pres,Volleyball,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4341,37,Des Pres,Walking,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4342,37,Des Pres,Wheelchair-Accessible Playground,4709 Lowe Rd,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/despres/,502-456-8100,38.2226423,-85.604784,DESPRES
+4343,38,Douglass,Basketball,2301 Douglass Blvd,Louisville,KY,40205,http://www.louisvilleky.gov/MetroParks/parks/douglass/,502-456-8100,38.2298147,-85.685891,DOUGLASS
+4344,38,Douglass,Community Center,2301 Douglass Blvd,Louisville,KY,40205,http://www.louisvilleky.gov/MetroParks/parks/douglass/,502-456-8100,38.2298147,-85.685891,DOUGLASS
+4345,38,Douglass,Picnic Table,2301 Douglass Blvd,Louisville,KY,40205,http://www.louisvilleky.gov/MetroParks/parks/douglass/,502-456-8100,38.2298147,-85.685891,DOUGLASS
+4346,38,Douglass,Playground,2301 Douglass Blvd,Louisville,KY,40205,http://www.louisvilleky.gov/MetroParks/parks/douglass/,502-456-8100,38.2298147,-85.685891,DOUGLASS
+4347,39,Dumeyer,Ballfield,1644 Squires Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/dumeyer/,502-456-8100,38.1848568,-85.7875132,DUMEYER
+4348,39,Dumeyer,Basketball,1644 Squires Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/dumeyer/,502-456-8100,38.1848568,-85.7875132,DUMEYER
+4349,39,Dumeyer,Community Center,1644 Squires Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/dumeyer/,502-456-8100,38.1848568,-85.7875132,DUMEYER
+4350,39,Dumeyer,Playground,1644 Squires Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/dumeyer/,502-456-8100,38.1848568,-85.7875132,DUMEYER
+4356,41,Eastover,Playground,118 Sacred Heart Ln,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/eastover/,502-456-8100,38.2528839,-85.6785941,EASTOVER
+4357,42,Elliott Square,Ballfield,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4358,42,Elliott Square,Basketball,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4359,42,Elliott Square,Horseshoe Pit,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4360,42,Elliott Square,Picnic Shelter,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4361,42,Elliott Square,Picnic Table,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4362,42,Elliott Square,Playground,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4363,42,Elliott Square,Restrooms,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4364,42,Elliott Square,Sprayground,630 S 28th St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/elliott/,502-456-8100,38.2515364,-85.7987607,ELLIOTTSQUARE
+4366,44,Eva Bandman  and Cyclocross Venue,Field Hockey,1701 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bandman/,502-456-8100,38.2676917,-85.7184598,EVABANDMANANDCYCLOCROSSVENUE
+4367,44,Eva Bandman  and Cyclocross Venue,Multi-purpose Field,1701 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bandman/,502-456-8100,38.2676917,-85.7184598,EVABANDMANANDCYCLOCROSSVENUE
+4368,44,Eva Bandman  and Cyclocross Venue,Fishing w/River Frontage,1701 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bandman/,502-456-8100,38.2676917,-85.7184598,EVABANDMANANDCYCLOCROSSVENUE
+4369,44,Eva Bandman  and Cyclocross Venue,Biking - Cyclocross,1701 River Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/bandman/,502-456-8100,38.2676917,-85.7184598,EVABANDMANANDCYCLOCROSSVENUE
+4370,46,Fairmount Falls,Picnic Table,9800 Thixton Ln,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/fairmountfalls/,502-456-8100,38.09268,-85.5779504,FAIRMOUNTFALLS
+4371,47,Farman,,,,,,http://www.louisvilleky.gov/MetroParks/parks/farman/,502-456-8100,38.1170084,-85.6838816,FARMAN
+4372,48,Farnsley,Picnic Table,3147 Commander Dr,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/farnsley/,502-456-8100,38.2156359,-85.652717,FARNSLEY
+4373,48,Farnsley,Playground,3147 Commander Dr,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/farnsley/,502-456-8100,38.2156359,-85.652717,FARNSLEY
+4374,48,Farnsley,Restrooms,3147 Commander Dr,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/farnsley/,502-456-8100,38.2156359,-85.652717,FARNSLEY
+4375,48,Farnsley,Soccer,3147 Commander Dr,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/farnsley/,502-456-8100,38.2156359,-85.652717,FARNSLEY
+4376,48,Farnsley,Sprayground,3147 Commander Dr,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/farnsley/,502-456-8100,38.2156359,-85.652717,FARNSLEY
+4377,48,Farnsley,Tennis,3147 Commander Dr,Louisville,KY,40220,http://www.louisvilleky.gov/MetroParks/parks/farnsley/,502-456-8100,38.2156359,-85.652717,FARNSLEY
+4378,49,Fern Creek,Ballfield,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4379,49,Fern Creek,Picnic Table,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4380,49,Fern Creek,Playground,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4381,49,Fern Creek,Restrooms,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4382,49,Fern Creek,Tennis,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4383,49,Fern Creek,Hiking Trail,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4384,49,Fern Creek,Walking,8703 Ferndale Rd,Louisville,KY,40291,http://www.louisvilleky.gov/MetroParks/parks/ferncreek/,502-456-8100,38.1579902,-85.6003763,FERNCREEK
+4385,50,Fisherman's,Fishing,5607 Old Heady Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/fishermans/,502-456-8100,38.1676598,-85.5116158,FISHERMANS
+4386,50,Fisherman's,Picnic Table,5607 Old Heady Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/fishermans/,502-456-8100,38.1676598,-85.5116158,FISHERMANS
+4387,51,Flaget Field,Community Center,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4388,51,Flaget Field,Football,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4389,51,Flaget Field,Multi-purpose Field,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4390,51,Flaget Field,Playground,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4391,51,Flaget Field,Restrooms,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4392,51,Flaget Field,Soccer,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4393,51,Flaget Field,Walking,4425 Greenwood Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/flagetfield/,502-456-8100,38.2453375,-85.8262448,FLAGETFIELD
+4394,52,Floyd's Fork,Picnic Shelter,4002 S Pope Lick Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/floydsfork/,502-456-8100,38.178529,-85.487737,FLOYDSFORK
+4395,52,Floyd's Fork,Playground,4002 S Pope Lick Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/floydsfork/,502-456-8100,38.178529,-85.487737,FLOYDSFORK
+4396,52,Floyd's Fork,Soccer,4002 S Pope Lick Rd,Louisville,KY,40299,http://www.louisvilleky.gov/MetroParks/parks/floydsfork/,502-456-8100,38.178529,-85.487737,FLOYDSFORK
+4398,54,G.G. Moore,Basketball,626 M St,Louisville,KY,40222,http://www.louisvilleky.gov/MetroParks/parks/moore/,502-456-8100,38.2092268,-85.7692789,GGMOORE
+4399,54,G.G. Moore,Picnic Shelter,626 M St,Louisville,KY,40222,http://www.louisvilleky.gov/MetroParks/parks/moore/,502-456-8100,38.2092268,-85.7692789,GGMOORE
+4400,54,G.G. Moore,Playground,626 M St,Louisville,KY,40222,http://www.louisvilleky.gov/MetroParks/parks/moore/,502-456-8100,38.2092268,-85.7692789,GGMOORE
+4401,54,G.G. Moore,Sprayground,626 M St,Louisville,KY,40222,http://www.louisvilleky.gov/MetroParks/parks/moore/,502-456-8100,38.2092268,-85.7692789,GGMOORE
+4402,55,George Rogers Clark,Ballfield,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4403,55,George Rogers Clark,Basketball,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4404,55,George Rogers Clark,Football,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4405,55,George Rogers Clark,Grill,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4406,55,George Rogers Clark,Horseshoe Pit,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4407,55,George Rogers Clark,Lodge,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4408,55,George Rogers Clark,Multi-purpose Field,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4409,55,George Rogers Clark,Picnic Table,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4410,55,George Rogers Clark,Playground,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4411,55,George Rogers Clark,Restrooms,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4412,55,George Rogers Clark,Soccer,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4413,55,George Rogers Clark,Sprayground,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4414,55,George Rogers Clark,Tennis,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4415,55,George Rogers Clark,Volleyball,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4416,55,George Rogers Clark,Sledding,1024 Thruston Ave,Louisville,KY,40217,http://www.louisvilleky.gov/MetroParks/parks/clark/,502-456-8100,38.2154333,-85.7285097,GEORGEROGERSCLARK
+4417,56,German-Paristown,Playground,1134 E Kentucky St,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/germanparistown/,502-456-8100,38.2350848,-85.7307196,GERMANPARISTOWN
+4418,57,Ginny Reichard,Basketball,1001 Franklin St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/reichard/,502-456-8100,38.2562283,-85.7331626,GINNYREICHARD
+4419,57,Ginny Reichard,Playground,1001 Franklin St,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/reichard/,502-456-8100,38.2562283,-85.7331626,GINNYREICHARD
+4420,58,Gnadinger,,1031 Ellison Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/gnadinger/,502-456-8100,38.2301305,-85.7332272,GNADINGER
+4421,59,Hays Kennedy,Ballfield,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4422,59,Hays Kennedy,Basketball,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4423,59,Hays Kennedy,Grill,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4424,59,Hays Kennedy,Multi-purpose Field,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4425,59,Hays Kennedy,Picnic Table,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4426,59,Hays Kennedy,Playground,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4427,59,Hays Kennedy,Polo,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4428,59,Hays Kennedy,Restrooms,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4429,59,Hays Kennedy,Soccer,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4430,59,Hays Kennedy,Tennis,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4431,59,Hays Kennedy,Walking,6200 Bass Rd,Louisville,KY,40059,http://www.louisvilleky.gov/MetroParks/parks/kennedy/,502-456-8100,38.3524016,-85.6311401,HAYSKENNEDY
+4432,60,Highview,Ballfield,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4433,60,Highview,Basketball,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4434,60,Highview,Grill,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4435,60,Highview,Picnic Shelter,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4436,60,Highview,Picnic Table,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4437,60,Highview,Playground,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4438,60,Highview,Tennis,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4439,60,Highview,Walking,7008 Briscoe Ln,Louisville,KY,40228,http://www.louisvilleky.gov/MetroParks/parks/highview/,502-456-8100,38.1392043,-85.6290859,HIGHVIEW
+4440,61,Hopewell,,,,,,http://www.louisvilleky.gov/MetroParks/parks/hopewell/,502-456-8100,38.2645912,-85.6965459,HOPEWELL
+4441,62,Hounz Lane,Grill,2300 Hounz Ln,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/hounzlane/,502-456-8100,38.2787583,-85.5686452,HOUNZLANE
+4442,62,Hounz Lane,Multi-purpose Field,2300 Hounz Ln,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/hounzlane/,502-456-8100,38.2787583,-85.5686452,HOUNZLANE
+4443,62,Hounz Lane,Picnic Shelter,2300 Hounz Ln,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/hounzlane/,502-456-8100,38.2787583,-85.5686452,HOUNZLANE
+4444,62,Hounz Lane,Picnic Table,2300 Hounz Ln,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/hounzlane/,502-456-8100,38.2787583,-85.5686452,HOUNZLANE
+4445,62,Hounz Lane,Playground,2300 Hounz Ln,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/hounzlane/,502-456-8100,38.2787583,-85.5686452,HOUNZLANE
+4446,62,Hounz Lane,Tennis,2300 Hounz Ln,Louisville,KY,40223,http://www.louisvilleky.gov/MetroParks/parks/hounzlane/,502-456-8100,38.2787583,-85.5686452,HOUNZLANE
+4447,63,Huston Quin,Basketball,4105 S 1st St,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/quin/,502-456-8100,38.1960464,-85.7609859,HUSTONQUIN
+4448,63,Huston Quin,Picnic Shelter,4105 S 1st St,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/quin/,502-456-8100,38.1960464,-85.7609859,HUSTONQUIN
+4449,63,Huston Quin,Playground,4105 S 1st St,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/quin/,502-456-8100,38.1960464,-85.7609859,HUSTONQUIN
+4450,63,Huston Quin,Sprayground,4105 S 1st St,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/quin/,502-456-8100,38.1960464,-85.7609859,HUSTONQUIN
+4451,64,Irish Hill,Basketball,1131 Lexington Rd,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/irishhill/,502-456-8100,38.2496976,-85.7299327,IRISHHILL
+4452,65,Iroquois,Amphitheater,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4453,65,Iroquois,Archery,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4454,65,Iroquois,Basketball,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4455,65,Iroquois,Disc Golf,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4456,65,Iroquois,Fishing,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4457,65,Iroquois,Golf,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4458,65,Iroquois,Grill,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4460,65,Iroquois,Horseshoe Pit,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4461,65,Iroquois,Meeting Facilities,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4462,65,Iroquois,Path,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4463,65,Iroquois,Picnic Shelter,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4464,65,Iroquois,Picnic Table,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4465,65,Iroquois,Playground,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4466,65,Iroquois,Restrooms,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4467,65,Iroquois,Running,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4468,65,Iroquois,Sprayground,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4469,65,Iroquois,Tennis,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4470,65,Iroquois,Hiking Trail,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4471,65,Iroquois,Volleyball,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4472,65,Iroquois,Walking,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4473,65,Iroquois,Wheelchair-Accessible Playground,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4474,65,Iroquois,Biking - Road,5216 New Cut Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/iroquois/,502-456-8100,38.1601147,-85.778242,IROQUOIS
+4475,66,Ivy Court,Playground,3245 Larkwood Ave,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/ivycourt/,502-456-8100,38.2582481,-85.806535,IVYCOURT
+4476,67,Jefferson Memorial Forest,Alpine Tower,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4477,67,Jefferson Memorial Forest,Campground,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4478,67,Jefferson Memorial Forest,Fishing,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4479,67,Jefferson Memorial Forest,Gift Shop,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4480,67,Jefferson Memorial Forest,Grill,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4481,67,Jefferson Memorial Forest,Horseback Riding,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4482,67,Jefferson Memorial Forest,Meeting Facilities,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4483,67,Jefferson Memorial Forest,Nature Center,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4484,67,Jefferson Memorial Forest,Picnic Shelter,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4485,67,Jefferson Memorial Forest,Picnic Table,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4486,67,Jefferson Memorial Forest,Playground,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4487,67,Jefferson Memorial Forest,Restrooms,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4488,67,Jefferson Memorial Forest,Running,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4489,67,Jefferson Memorial Forest,Hiking Trail,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4490,67,Jefferson Memorial Forest,Walking,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4491,67,Jefferson Memorial Forest,Biking - Road,11311 Mitchell Hill Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/jeffersonmemorialforest/,502-456-8100,38.0849935,-85.7673815,JEFFERSONMEMORIALFOREST
+4492,68,Joe Creason,Cross Country,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4493,68,Joe Creason,Grill,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4494,68,Joe Creason,Picnic Shelter,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4495,68,Joe Creason,Picnic Table,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4496,68,Joe Creason,Playground,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4497,68,Joe Creason,Restrooms,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4498,68,Joe Creason,Running,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4499,68,Joe Creason,Soccer,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4500,68,Joe Creason,Tennis,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4501,68,Joe Creason,Hiking Trail,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4502,68,Joe Creason,Volleyball,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4503,68,Joe Creason,Sledding,1297 Trevilian Way,Louisville,KY,40213,http://www.louisvilleky.gov/MetroParks/parks/creason/,502-456-8100,38.209182,-85.7075251,JOECREASON
+4504,69,Kennedy Court,Picnic Table,225 Kennedy Ct,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/kennedycourt/,502-456-8100,38.2525768,-85.6878196,KENNEDYCOURT
+4505,69,Kennedy Court,Playground,225 Kennedy Ct,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/kennedycourt/,502-456-8100,38.2525768,-85.6878196,KENNEDYCOURT
+4506,70,Klondike,Ballfield,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4507,70,Klondike,Grill,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4508,70,Klondike,Picnic Shelter,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4509,70,Klondike,Picnic Table,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4510,70,Klondike,Playground,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4511,70,Klondike,Tennis,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4512,70,Klondike,Walking,3809 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/klondike/,502-456-8100,38.209716,-85.6354708,KLONDIKE
+4513,71,Kulmer Reserve,Picnic Shelter,17200 Kulmer Beach Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/kulmer/,502-456-8100,38.0091434,-85.9333993,KULMERRESERVE
+4514,71,Kulmer Reserve,Picnic Table,17200 Kulmer Beach Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/kulmer/,502-456-8100,38.0091434,-85.9333993,KULMERRESERVE
+4515,71,Kulmer Reserve,Fishing w/River Frontage,17200 Kulmer Beach Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/kulmer/,502-456-8100,38.0091434,-85.9333993,KULMERRESERVE
+4516,71,Kulmer Reserve,Walking,17200 Kulmer Beach Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/kulmer/,502-456-8100,38.0091434,-85.9333993,KULMERRESERVE
+4517,72,Lake Dreamland,Basketball,4400 Lake Dreamland Rd,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/lakedreamland/,502-456-8100,38.2078681,-85.859992,LAKEDREAMLAND
+4518,72,Lake Dreamland,Picnic Shelter,4400 Lake Dreamland Rd,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/lakedreamland/,502-456-8100,38.2078681,-85.859992,LAKEDREAMLAND
+4519,72,Lake Dreamland,Playground,4400 Lake Dreamland Rd,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/lakedreamland/,502-456-8100,38.2078681,-85.859992,LAKEDREAMLAND
+4520,73,Lampton,Ballfield,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4521,73,Lampton,Basketball,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4522,73,Lampton,Community Center,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4523,73,Lampton,Horseshoe Pit,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4524,73,Lampton,Multi-purpose Field,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4525,73,Lampton,Playground,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4526,73,Lampton,Soccer,501 Lampton St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/lampton/,502-456-8100,38.2423537,-85.7453269,LAMPTON
+4527,74,Lannan,Ballfield,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4528,74,Lannan,Basketball,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4529,74,Lannan,Grill,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4530,74,Lannan,Picnic Table,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4531,74,Lannan,Playground,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4532,74,Lannan,Restrooms,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4533,74,Lannan,Fishing w/River Frontage,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4534,74,Lannan,Tennis,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4535,74,Lannan,Louisville Loop Access,901 N 26th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/lannan/,502-456-8100,38.2738057,-85.7845811,LANNAN
+4536,75,LaPorte,Basketball,2529 Bank St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/laporte/,502-456-8100,38.2695442,-85.7886321,LAPORTE
+4537,75,LaPorte,Playground,2529 Bank St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/laporte/,502-456-8100,38.2695442,-85.7886321,LAPORTE
+4538,75,LaPorte,Sprayground,2529 Bank St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/laporte/,502-456-8100,38.2695442,-85.7886321,LAPORTE
+4539,76,Locust Grove,Gift Shop,561 Blankenbaker Ln,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/locustgrove/,502-897-9845,38.2876752,-85.6626649,LOCUSTGROVE
+4540,76,Locust Grove,Historic Property,561 Blankenbaker Ln,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/locustgrove/,502-897-9845,38.2876752,-85.6626649,LOCUSTGROVE
+4541,76,Locust Grove,Meeting Facilities,561 Blankenbaker Ln,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/locustgrove/,502-897-9845,38.2876752,-85.6626649,LOCUSTGROVE
+4542,76,Locust Grove,Restrooms,561 Blankenbaker Ln,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/locustgrove/,502-897-9845,38.2876752,-85.6626649,LOCUSTGROVE
+4543,76,Locust Grove,Wedding/Reception Site,561 Blankenbaker Ln,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/locustgrove/,502-897-9845,38.2876752,-85.6626649,LOCUSTGROVE
+4544,77,Long Run,Basketball,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4545,77,Long Run,Boat Ramps & Landings,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4546,77,Long Run,Fishing,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4547,77,Long Run,Golf,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4548,77,Long Run,Grill,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4549,77,Long Run,Horseback Riding,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4550,77,Long Run,Picnic Shelter,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4551,77,Long Run,Picnic Table,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4552,77,Long Run,Playground,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4553,77,Long Run,Restrooms,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4554,77,Long Run,Tennis,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4555,77,Long Run,Volleyball,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4556,77,Long Run,Biking - Road,1605 Flat Rock Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/longrun/,502-456-8100,38.2647874,-85.4259871,LONGRUN
+4557,78,Louis B. Israel,Playground,4708 S 1st St,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/israel/,502-456-8100,38.1810363,-85.7634029,LOUISBISRAEL
+4558,79,Louisville Extreme,Restrooms,148 Clay St,Louisville,KY,40202,http://www.louisvilleky.gov/MetroParks/parks/extremepark/,502-456-8100,38.2567774,-85.7397059,LOUISVILLEEXTREME
+4559,79,Louisville Extreme,Skate Park,148 Clay St,Louisville,KY,40202,http://www.louisvilleky.gov/MetroParks/parks/extremepark/,502-456-8100,38.2567774,-85.7397059,LOUISVILLEEXTREME
+4560,81,Magnolia,Picnic Shelter,1407 S 2nd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/magnolia/,502-456-8100,38.2283687,-85.7576625,MAGNOLIA
+4561,81,Magnolia,Playground,1407 S 2nd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/magnolia/,502-456-8100,38.2283687,-85.7576625,MAGNOLIA
+4562,82,McNeely Lake,Ballfield,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4563,82,McNeely Lake,Basketball,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4564,82,McNeely Lake,Boat Ramps & Landings,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4565,82,McNeely Lake,Cross Country,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4566,82,McNeely Lake,Fishing,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4567,82,McNeely Lake,Grill,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4568,82,McNeely Lake,Horseback Riding,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4569,82,McNeely Lake,Memorial,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4570,82,McNeely Lake,Picnic Shelter,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4571,82,McNeely Lake,Playground,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4572,82,McNeely Lake,Running,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4573,82,McNeely Lake,Soccer,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4574,82,McNeely Lake,Tennis,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4575,82,McNeely Lake,Hiking Trail,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4577,82,McNeely Lake,Model Airplane Flying Fields,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4578,82,McNeely Lake,Sledding,10500 Cedar Creek Rd,Louisville,KY,40229,http://www.louisvilleky.gov/MetroParks/parks/mcneelylake/,502-456-8100,38.0968742,-85.6215074,MCNEELYLAKE
+4579,83,Medora,Ballfield,6211 Pendelton Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/medora/,502-456-8100,38.0606151,-85.8792977,MEDORA
+4580,83,Medora,Basketball,6211 Pendelton Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/medora/,502-456-8100,38.0606151,-85.8792977,MEDORA
+4581,83,Medora,Playground,6211 Pendelton Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/medora/,502-456-8100,38.0606151,-85.8792977,MEDORA
+4582,84,Memorial,Amphitheater,969 S 4th St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/memorial/,502-456-8100,38.2392483,-85.7591204,MEMORIAL
+4583,85,Nelson Hornbeck,Ballfield,709 Fairdale Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/hornbeck/,502-456-8100,38.1087507,-85.757086,NELSONHORNBECK
+4584,85,Nelson Hornbeck,Basketball,709 Fairdale Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/hornbeck/,502-456-8100,38.1087507,-85.757086,NELSONHORNBECK
+4585,85,Nelson Hornbeck,Playground,709 Fairdale Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/hornbeck/,502-456-8100,38.1087507,-85.757086,NELSONHORNBECK
+4586,85,Nelson Hornbeck,Restrooms,709 Fairdale Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/hornbeck/,502-456-8100,38.1087507,-85.757086,NELSONHORNBECK
+4587,85,Nelson Hornbeck,Swimming,709 Fairdale Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/hornbeck/,502-456-8100,38.1087507,-85.757086,NELSONHORNBECK
+4588,85,Nelson Hornbeck,Tennis,709 Fairdale Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/hornbeck/,502-456-8100,38.1087507,-85.757086,NELSONHORNBECK
+4589,86,Norfolk Acres,Ballfield,4301 Coram Way,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/norfolkacres/,502-456-8100,38.1811572,-85.6414247,NORFOLKACRES
+4590,86,Norfolk Acres,Basketball,4301 Coram Way,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/norfolkacres/,502-456-8100,38.1811572,-85.6414247,NORFOLKACRES
+4591,86,Norfolk Acres,Multi-purpose Field,4301 Coram Way,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/norfolkacres/,502-456-8100,38.1811572,-85.6414247,NORFOLKACRES
+4592,87,Okolona,Ballfield,1114 Clay Ave,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/okolona/,502-456-8100,38.1406624,-85.6930457,OKOLONA
+4593,87,Okolona,Basketball,1114 Clay Ave,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/okolona/,502-456-8100,38.1406624,-85.6930457,OKOLONA
+4594,87,Okolona,Picnic Shelter,1114 Clay Ave,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/okolona/,502-456-8100,38.1406624,-85.6930457,OKOLONA
+4595,87,Okolona,Playground,1114 Clay Ave,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/okolona/,502-456-8100,38.1406624,-85.6930457,OKOLONA
+4596,87,Okolona,Tennis,1114 Clay Ave,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/okolona/,502-456-8100,38.1406624,-85.6930457,OKOLONA
+4604,90,Parkhill,Ballfield,1703 S 13th St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/parkhill/,502-456-8100,38.2244701,-85.7764917,PARKHILL
+4605,90,Parkhill,Basketball,1703 S 13th St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/parkhill/,502-456-8100,38.2244701,-85.7764917,PARKHILL
+4606,90,Parkhill,Community Center,1703 S 13th St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/parkhill/,502-456-8100,38.2244701,-85.7764917,PARKHILL
+4607,90,Parkhill,Picnic Shelter,1703 S 13th St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/parkhill/,502-456-8100,38.2244701,-85.7764917,PARKHILL
+4608,90,Parkhill,Playground,1703 S 13th St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/parkhill/,502-456-8100,38.2244701,-85.7764917,PARKHILL
+4609,90,Parkhill,Sprayground,1703 S 13th St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/parkhill/,502-456-8100,38.2244701,-85.7764917,PARKHILL
+4610,91,Patterson Playground,Playground,1418 Morton Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/patterson/,502-456-8100,38.2409042,-85.7258917,PATTERSONPLAYGROUND
+4611,92,PeeWee,Grill,2913 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/peewee/,502-456-8100,38.2050044,-85.6377384,PEEWEE
+4612,92,PeeWee,Picnic Table,2913 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/peewee/,502-456-8100,38.2050044,-85.6377384,PEEWEE
+4613,92,PeeWee,Playground,2913 Klondike Ln,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/peewee/,502-456-8100,38.2050044,-85.6377384,PEEWEE
+4614,93,Petersburg,Amphitheater,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4615,93,Petersburg,Ballfield,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4616,93,Petersburg,Basketball,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4617,93,Petersburg,Community Center,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4618,93,Petersburg,Grill,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4619,93,Petersburg,Picnic Shelter,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4620,93,Petersburg,Picnic Table,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4621,93,Petersburg,Playground,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4622,93,Petersburg,Sprayground,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4623,93,Petersburg,Tennis,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4624,93,Petersburg,Walking,5008 E Indian Trl,Louisville,KY,40218,http://www.louisvilleky.gov/MetroParks/parks/petersburg/,502-456-8100,38.1819195,-85.6660778,PETERSBURG
+4625,94,Portland,Basketball,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4626,94,Portland,Community Center,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4627,94,Portland,Picnic Shelter,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4628,94,Portland,Playground,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4629,94,Portland,Restrooms,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4630,94,Portland,Sprayground,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4631,94,Portland,Volleyball,640 N 27th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portland/,502-456-8100,38.2738512,-85.7915847,PORTLAND
+4632,95,Portland Wharf,Path,719 N 32nd St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portlandwharf/,502-456-8100,38.2786874,-85.8046787,PORTLANDWHARF
+4633,95,Portland Wharf,Fishing w/River Frontage,719 N 32nd St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portlandwharf/,502-456-8100,38.2786874,-85.8046787,PORTLANDWHARF
+4634,95,Portland Wharf,Louisville Loop Access,719 N 32nd St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portlandwharf/,502-456-8100,38.2786874,-85.8046787,PORTLANDWHARF
+4635,95,Portland Wharf,Archaeological Site,719 N 32nd St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/portlandwharf/,502-456-8100,38.2786874,-85.8046787,PORTLANDWHARF
+4636,96,Riverside Gardens,Ballfield,3899 Lees Ln,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/riverside/,502-456-8100,38.1908522,-85.8664534,RIVERSIDEGARDENS
+4637,96,Riverside Gardens,Basketball,3899 Lees Ln,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/riverside/,502-456-8100,38.1908522,-85.8664534,RIVERSIDEGARDENS
+4638,96,Riverside Gardens,Picnic Shelter,3899 Lees Ln,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/riverside/,502-456-8100,38.1908522,-85.8664534,RIVERSIDEGARDENS
+4639,96,Riverside Gardens,Playground,3899 Lees Ln,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/riverside/,502-456-8100,38.1908522,-85.8664534,RIVERSIDEGARDENS
+4640,96,Riverside Gardens,Restrooms,3899 Lees Ln,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/riverside/,502-456-8100,38.1908522,-85.8664534,RIVERSIDEGARDENS
+4641,96,Riverside Gardens,Tennis,3899 Lees Ln,Louisville,KY,40216,http://www.louisvilleky.gov/MetroParks/parks/riverside/,502-456-8100,38.1908522,-85.8664534,RIVERSIDEGARDENS
+4642,97,Riverside The Farnsley-Moremen Landing,Fishing,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4643,97,Riverside The Farnsley-Moremen Landing,Gift Shop,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4644,97,Riverside The Farnsley-Moremen Landing,Historic Property,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4645,97,Riverside The Farnsley-Moremen Landing,Meeting Facilities,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4646,97,Riverside The Farnsley-Moremen Landing,Path,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4647,97,Riverside The Farnsley-Moremen Landing,Restrooms,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4648,97,Riverside The Farnsley-Moremen Landing,Fishing w/River Frontage,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4649,97,Riverside The Farnsley-Moremen Landing,Wedding/Reception Site,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4650,97,Riverside The Farnsley-Moremen Landing,Louisville Loop Access,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4651,97,Riverside The Farnsley-Moremen Landing,Biking - Road,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4652,97,Riverside The Farnsley-Moremen Landing,Archaeological Site,7410 Moorman Rd,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/riversidelanding/,502-935-6809,38.0965403,-85.8977658,RIVERSIDETHEFARNSLEYMOREMENLANDING
+4653,98,Riverview,Basketball,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4654,98,Riverview,Boat Ramps & Landings,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4655,98,Riverview,Path,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4656,98,Riverview,Picnic Shelter,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4657,98,Riverview,Picnic Table,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4658,98,Riverview,Playground,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4659,98,Riverview,Restrooms,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4660,98,Riverview,Fishing w/River Frontage,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4661,98,Riverview,Louisville Loop Access,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4662,98,Riverview,Sledding,8202 Greenwood Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/riverview/,502-456-8100,38.1470524,-85.9015625,RIVERVIEW
+4663,99,Roberson Run,Path,8205 Judge Blvd,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/roberson/,502-456-8100,38.1295404,-85.6664416,ROBERSONRUN
+4664,99,Roberson Run,Walking,8205 Judge Blvd,Louisville,KY,40219,http://www.louisvilleky.gov/MetroParks/parks/roberson/,502-456-8100,38.1295404,-85.6664416,ROBERSONRUN
+4665,100,Rubel,Ballfield,667 Barret Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/rubel/,502-456-8100,38.2450294,-85.7316465,RUBEL
+4666,100,Rubel,Basketball,667 Barret Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/rubel/,502-456-8100,38.2450294,-85.7316465,RUBEL
+4667,100,Rubel,Grill,667 Barret Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/rubel/,502-456-8100,38.2450294,-85.7316465,RUBEL
+4668,100,Rubel,Picnic Shelter,667 Barret Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/rubel/,502-456-8100,38.2450294,-85.7316465,RUBEL
+4669,100,Rubel,Picnic Table,667 Barret Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/rubel/,502-456-8100,38.2450294,-85.7316465,RUBEL
+4670,100,Rubel,Playground,667 Barret Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/rubel/,502-456-8100,38.2450294,-85.7316465,RUBEL
+4671,101,Russell Lee,Ballfield,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4672,101,Russell Lee,Basketball,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4673,101,Russell Lee,Football,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4674,101,Russell Lee,Picnic Shelter,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4675,101,Russell Lee,Playground,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4676,101,Russell Lee,Restrooms,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4677,101,Russell Lee,Sprayground,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4678,101,Russell Lee,Tennis,3621 Southern Ave,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/lee/,502-456-8100,38.2330968,-85.8159455,RUSSELLLEE
+4679,102,Seneca,Ballfield,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4680,102,Seneca,Basketball,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4681,102,Seneca,Cross Country,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4682,102,Seneca,Field Hockey,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4683,102,Seneca,Golf,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4684,102,Seneca,Horseback Riding,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4685,102,Seneca,Path,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4686,102,Seneca,Picnic Table,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4687,102,Seneca,Playground,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4688,102,Seneca,Restrooms,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4689,102,Seneca,Running,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4690,102,Seneca,Soccer,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4691,102,Seneca,Tennis,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4692,102,Seneca,Hiking Trail,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4693,102,Seneca,Volleyball,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4694,102,Seneca,Walking,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4695,102,Seneca,Biking - Road,3151 Pee Wee Reese Rd,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/seneca/,502-456-8100,38.2429314,-85.6707781,SENECA
+4696,103,Shawnee,Ballfield,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4697,103,Shawnee,Basketball,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4698,103,Shawnee,Football,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4699,103,Shawnee,Golf,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4700,103,Shawnee,Grill,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4701,103,Shawnee,Lodge,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4702,103,Shawnee,Path,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4703,103,Shawnee,Picnic Shelter,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4704,103,Shawnee,Picnic Table,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4705,103,Shawnee,Playground,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4706,103,Shawnee,Restrooms,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4707,103,Shawnee,Fishing w/River Frontage,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4708,103,Shawnee,Soccer,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4709,103,Shawnee,Tennis,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4710,103,Shawnee,Louisville Loop Access,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4711,103,Shawnee,Biking - Road,4501 W Broadway,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/shawnee/,502-456-8100,38.2514921,-85.8275585,SHAWNEE
+4712,104,Shelby,Ballfield,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4713,104,Shelby,Basketball,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4714,104,Shelby,Community Center,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4715,104,Shelby,Picnic Shelter,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4716,104,Shelby,Playground,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4717,104,Shelby,Restrooms,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4718,104,Shelby,Running,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4719,104,Shelby,Tennis,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4720,104,Shelby,Walking,600 E Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/shelby/,502-456-8100,38.2337118,-85.7456135,SHELBY
+4721,105,Sheppard,Basketball,1601 Magazine St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/sheppard/,502-456-8100,38.2502745,-85.7787403,SHEPPARD
+4722,105,Sheppard,Picnic Shelter,1601 Magazine St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/sheppard/,502-456-8100,38.2502745,-85.7787403,SHEPPARD
+4723,105,Sheppard,Playground,1601 Magazine St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/sheppard/,502-456-8100,38.2502745,-85.7787403,SHEPPARD
+4724,106,Slevin,Playground,341 N 25th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/slevin/,502-456-8100,38.2646035,-85.7901128,SLEVIN
+4725,107,South Central,Ballfield,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4726,107,South Central,Basketball,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4727,107,South Central,Path,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4728,107,South Central,Picnic Table,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4729,107,South Central,Playground,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4730,107,South Central,Soccer,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4731,107,South Central,Walking,2400 Colorado Ave,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/southcentral/,502-456-8100,38.2131236,-85.7769948,SOUTHCENTRAL
+4732,108,St. Louis,Basketball,2023 St Louis Ave,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/stlouis/,502-456-8100,38.2339106,-85.7906093,STLOUIS
+4733,108,St. Louis,Playground,2023 St Louis Ave,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/stlouis/,502-456-8100,38.2339106,-85.7906093,STLOUIS
+4734,109,Story Avenue,Basketball,1531 Story Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/storyavenue/,502-456-8100,38.258259,-85.7243023,STORYAVENUE
+4735,109,Story Avenue,Playground,1531 Story Ave,Louisville,KY,40206,http://www.louisvilleky.gov/MetroParks/parks/storyavenue/,502-456-8100,38.258259,-85.7243023,STORYAVENUE
+4736,110,Sun Valley,Ballfield,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4737,110,Sun Valley,Basketball,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4738,110,Sun Valley,Community Center,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4739,110,Sun Valley,Football,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4740,110,Sun Valley,Golf,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4741,110,Sun Valley,Picnic Shelter,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4742,110,Sun Valley,Playground,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4743,110,Sun Valley,Restrooms,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4744,110,Sun Valley,Soccer,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4745,110,Sun Valley,Swimming,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4746,110,Sun Valley,Tennis,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4747,110,Sun Valley,Volleyball,6616 Ashby Ln,Louisville,KY,40272,http://www.louisvilleky.gov/MetroParks/parks/sunvalley/,502-937-8802,38.1077209,-85.8881815,SUNVALLEY
+4748,111,Sylvania,Ballfield,6650 Sylvania Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/sylvania/,502-456-8100,38.1586149,-85.8742666,SYLVANIA
+4749,111,Sylvania,Basketball,6650 Sylvania Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/sylvania/,502-456-8100,38.1586149,-85.8742666,SYLVANIA
+4750,111,Sylvania,Community Center,6650 Sylvania Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/sylvania/,502-456-8100,38.1586149,-85.8742666,SYLVANIA
+4751,111,Sylvania,Picnic Table,6650 Sylvania Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/sylvania/,502-456-8100,38.1586149,-85.8742666,SYLVANIA
+4752,111,Sylvania,Tennis,6650 Sylvania Rd,Louisville,KY,40258,http://www.louisvilleky.gov/MetroParks/parks/sylvania/,502-456-8100,38.1586149,-85.8742666,SYLVANIA
+4753,112,Thurman Hutchins,Ballfield,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4754,112,Thurman Hutchins,Field Hockey,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4755,112,Thurman Hutchins,Fishing,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4756,112,Thurman Hutchins,Grill,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4757,112,Thurman Hutchins,Memorial,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4758,112,Thurman Hutchins,Path,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4759,112,Thurman Hutchins,Picnic Shelter,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4760,112,Thurman Hutchins,Playground,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4761,112,Thurman Hutchins,Restrooms,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4762,112,Thurman Hutchins,Running,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4763,112,Thurman Hutchins,Soccer,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4764,112,Thurman Hutchins,Walking,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4765,112,Thurman Hutchins,Biking - Road,3734 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/thurmanhutchins/,502-456-8100,38.2841059,-85.6865605,THURMANHUTCHINS
+4766,113,Toonerville Trolley,Ballfield,218 East Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/toonervilletrolley/,502-456-8100,38.2330481,-85.7531258,TOONERVILLETROLLEY
+4767,113,Toonerville Trolley,Playground,218 East Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/toonervilletrolley/,502-456-8100,38.2330481,-85.7531258,TOONERVILLETROLLEY
+4768,113,Toonerville Trolley,Tennis,218 East Oak St,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/toonervilletrolley/,502-456-8100,38.2330481,-85.7531258,TOONERVILLETROLLEY
+4769,114,Twin,Walking,3145 River Rd,Louisville,KY,40207,http://www.louisvilleky.gov/MetroParks/parks/twin/,502-456-8100,38.2803912,-85.6938124,TWIN
+4770,115,Tyler,Basketball,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4771,115,Tyler,Grill,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4772,115,Tyler,Path,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4773,115,Tyler,Picnic Shelter,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4774,115,Tyler,Picnic Table,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4775,115,Tyler,Playground,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4776,115,Tyler,Restrooms,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4777,115,Tyler,Running,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4778,115,Tyler,Sprayground,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4779,115,Tyler,Tennis,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4780,115,Tyler,Volleyball,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4781,115,Tyler,Walking,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4782,115,Tyler,Sledding,1501 Castlewood Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/tyler/,502-456-8100,38.2310113,-85.7178378,TYLER
+4783,116,Victory,Ballfield,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4784,116,Victory,Basketball,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4785,116,Victory,Grill,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4786,116,Victory,Lodge,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4787,116,Victory,Picnic Table,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4788,116,Victory,Playground,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4789,116,Victory,Restrooms,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4790,116,Victory,Sprayground,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4791,116,Victory,Walking,1051 S 23rd St,Louisville,KY,40210,http://www.louisvilleky.gov/MetroParks/parks/victory/,502-456-8100,38.241779,-85.7907223,VICTORY
+4792,117,Watterson Lake,Fishing,1714 Wheatmore Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wattersonlake/,502-456-8100,38.1879569,-85.7983553,WATTERSONLAKE
+4793,117,Watterson Lake,Path,1714 Wheatmore Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wattersonlake/,502-456-8100,38.1879569,-85.7983553,WATTERSONLAKE
+4794,117,Watterson Lake,Picnic Shelter,1714 Wheatmore Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wattersonlake/,502-456-8100,38.1879569,-85.7983553,WATTERSONLAKE
+4795,117,Watterson Lake,Picnic Table,1714 Wheatmore Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wattersonlake/,502-456-8100,38.1879569,-85.7983553,WATTERSONLAKE
+4796,117,Watterson Lake,Walking,1714 Wheatmore Dr,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wattersonlake/,502-456-8100,38.1879569,-85.7983553,WATTERSONLAKE
+4797,118,Waverly,Archery,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4798,118,Waverly,Fishing,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4799,118,Waverly,Golf,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4800,118,Waverly,Grill,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4801,118,Waverly,Biking - Mountain,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4802,118,Waverly,Playground,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4803,118,Waverly,Running,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4804,118,Waverly,Tennis,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4805,118,Waverly,Hiking Trail,4800 Waverly Park Rd,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/waverly/,502-456-8100,38.1311341,-85.8263384,WAVERLY
+4806,119,Wayside,Playground,3190 S 3rd St,Louisville,KY,40214,http://www.louisvilleky.gov/MetroParks/parks/wayside/,502-456-8100,38.2015307,-85.7649043,WAYSIDE
+4807,120,Westonia,Ballfield,2900 Rowan St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/westonia/,502-456-8100,38.2624223,-85.7996266,WESTONIA
+4808,120,Westonia,Basketball,2900 Rowan St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/westonia/,502-456-8100,38.2624223,-85.7996266,WESTONIA
+4809,120,Westonia,Playground,2900 Rowan St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/westonia/,502-456-8100,38.2624223,-85.7996266,WESTONIA
+4810,120,Westonia,Restrooms,2900 Rowan St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/westonia/,502-456-8100,38.2624223,-85.7996266,WESTONIA
+4811,120,Westonia,Volleyball,2900 Rowan St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/westonia/,502-456-8100,38.2624223,-85.7996266,WESTONIA
+4812,121,William B. Stansbury,Basketball,2302 S 3rd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/stansbury/,502-456-8100,38.2154894,-85.7628278,WILLIAMBSTANSBURY
+4813,121,William B. Stansbury,Playground,2302 S 3rd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/stansbury/,502-456-8100,38.2154894,-85.7628278,WILLIAMBSTANSBURY
+4814,121,William B. Stansbury,Restrooms,2302 S 3rd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/stansbury/,502-456-8100,38.2154894,-85.7628278,WILLIAMBSTANSBURY
+4815,121,William B. Stansbury,Sprayground,2302 S 3rd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/stansbury/,502-456-8100,38.2154894,-85.7628278,WILLIAMBSTANSBURY
+4816,121,William B. Stansbury,Tennis,2302 S 3rd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/stansbury/,502-456-8100,38.2154894,-85.7628278,WILLIAMBSTANSBURY
+4817,121,William B. Stansbury,Volleyball,2302 S 3rd St,Louisville,KY,40208,http://www.louisvilleky.gov/MetroParks/parks/stansbury/,502-456-8100,38.2154894,-85.7628278,WILLIAMBSTANSBURY
+4818,122,William Britt,Running,2801 Magazine St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/britt/,502-456-8100,38.2524506,-85.7981117,WILLIAMBRITT
+4819,122,William Britt,Walking,2801 Magazine St,Louisville,KY,40211,http://www.louisvilleky.gov/MetroParks/parks/britt/,502-456-8100,38.2524506,-85.7981117,WILLIAMBRITT
+4820,123,William F. Miles,Fishing,15712 Shelbyville Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/miles/,502-456-8100,38.2309624,-85.4668109,WILLIAMFMILES
+4821,123,William F. Miles,Canoe Access,15712 Shelbyville Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/miles/,502-456-8100,38.2309624,-85.4668109,WILLIAMFMILES
+4822,123,William F. Miles,Community Garden,15712 Shelbyville Rd,Louisville,KY,40245,http://www.louisvilleky.gov/MetroParks/parks/miles/,502-456-8100,38.2309624,-85.4668109,WILLIAMFMILES
+4823,124,William Harrison,Basketball,3200 Oleanda Ave,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/harrison/,502-456-8100,38.2047019,-85.7867043,WILLIAMHARRISON
+4824,124,William Harrison,Picnic Shelter,3200 Oleanda Ave,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/harrison/,502-456-8100,38.2047019,-85.7867043,WILLIAMHARRISON
+4825,124,William Harrison,Playground,3200 Oleanda Ave,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/harrison/,502-456-8100,38.2047019,-85.7867043,WILLIAMHARRISON
+4826,124,William Harrison,Sprayground,3200 Oleanda Ave,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/harrison/,502-456-8100,38.2047019,-85.7867043,WILLIAMHARRISON
+4827,125,Willow,Picnic Shelter,1330 Willow Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/willow/,502-456-8100,38.2362828,-85.7095123,WILLOW
+4828,125,Willow,Playground,1330 Willow Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/willow/,502-456-8100,38.2362828,-85.7095123,WILLOW
+4829,125,Willow,Restrooms,1330 Willow Ave,Louisville,KY,40204,http://www.louisvilleky.gov/MetroParks/parks/willow/,502-456-8100,38.2362828,-85.7095123,WILLOW
+4830,126,Wyandotte,Ballfield,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4831,126,Wyandotte,Basketball,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4832,126,Wyandotte,Croquet,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4833,126,Wyandotte,Horseshoe Pit,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4834,126,Wyandotte,Path,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4835,126,Wyandotte,Picnic Shelter,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4836,126,Wyandotte,Picnic Table,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4837,126,Wyandotte,Playground,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4838,126,Wyandotte,Restrooms,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4839,126,Wyandotte,Sprayground,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4840,126,Wyandotte,Tennis,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4841,126,Wyandotte,Volleyball,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4842,126,Wyandotte,Walking,1104 Beecher St,Louisville,KY,40215,http://www.louisvilleky.gov/MetroParks/parks/wyandotte/,502-456-8100,38.1908019,-85.7801622,WYANDOTTE
+4843,133,Fairdale Mini,Picnic Shelter,10714 W Manslick Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/fairdalemini/,502-456-8100,38.1049031,-85.7592197,FAIRDALEMINI
+4844,133,Fairdale Mini,Walking,10714 W Manslick Rd,Louisville,KY,40118,http://www.louisvilleky.gov/MetroParks/parks/fairdalemini/,502-456-8100,38.1049031,-85.7592197,FAIRDALEMINI
+4860,4,Cyril Allgeier,,,,,,http://www.louisvilleky.gov/MetroParks/parks/allgeier/,502-456-8100,38.2010655,-85.7005389,CYRILALLGEIER
+4861,40,E. Leland Taylor,Ballfield,317 N 38th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/taylor/,502-456-8100,38.2679557,-85.8094848,ELELANDTAYLOR
+4862,40,E. Leland Taylor,Basketball,317 N 38th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/taylor/,502-456-8100,38.2679557,-85.8094848,ELELANDTAYLOR
+4863,40,E. Leland Taylor,Football,317 N 38th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/taylor/,502-456-8100,38.2679557,-85.8094848,ELELANDTAYLOR
+4864,40,E. Leland Taylor,Picnic Table,317 N 38th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/taylor/,502-456-8100,38.2679557,-85.8094848,ELELANDTAYLOR
+4865,40,E. Leland Taylor,Playground,317 N 38th St,Louisville,KY,40212,http://www.louisvilleky.gov/MetroParks/parks/taylor/,502-456-8100,38.2679557,-85.8094848,ELELANDTAYLOR
+4866,43,Emerson,,,,,,http://www.louisvilleky.gov/MetroParks/parks/emerson/,502-456-8100,38.2211739,-85.7397108,EMERSON
+4867,80,WATERFRONTPARK,,,,,,http://www.louisvilleky.gov/MetroParks/parks/waterfrontpark/,502-574-3768,38.2574762,-85.7493293,WATERFRONTPARK
+4868,88,Old Walnut Street,Ballfield,901 W Muhammad Ali Blvd,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/oldwalnutbeecher/,502-456-8100,38.2527268,-85.7664895,OLDWALNUTSTREET
+4869,88,Old Walnut Street,Basketball,901 W Muhammad Ali Blvd,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/oldwalnutbeecher/,502-456-8100,38.2527268,-85.7664895,OLDWALNUTSTREET
+4870,88,Old Walnut Street,Playground,901 W Muhammad Ali Blvd,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/oldwalnutbeecher/,502-456-8100,38.2527268,-85.7664895,OLDWALNUTSTREET
+4871,88,Old Walnut Street,Soccer,901 W Muhammad Ali Blvd,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/oldwalnutbeecher/,502-456-8100,38.2527268,-85.7664895,OLDWALNUTSTREET
+4872,88,Old Walnut Street,Tennis,901 W Muhammad Ali Blvd,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/oldwalnutbeecher/,502-456-8100,38.2527268,-85.7664895,OLDWALNUTSTREET
+4873,88,Old Walnut Street,Volleyball,901 W Muhammad Ali Blvd,Louisville,KY,40203,http://www.louisvilleky.gov/MetroParks/parks/oldwalnutbeecher/,502-456-8100,38.2527268,-85.7664895,OLDWALNUTSTREET
+4874,89,Otter Creek,,850 Otter Creek Park Rd,Louisville,KY,40108,http://www.louisvilleky.gov/MetroParks/parks/ottercreek/,502-456-8100,37.9442574,-86.0388785,OTTERCREEK
