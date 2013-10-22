@@ -31,4 +31,5 @@ Data from Federal Sources
 - & Census data/American Community Survey - about healthcare insurance etc
 
 Data from Other Sources
+-----------------------
 - ? [Gallup-Healthways Well-Being Index](http://www.well-beingindex.com/stateCongresDistrictRank.asp) - city level.. maybe we can get more ganular from them
