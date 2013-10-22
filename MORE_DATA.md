@@ -2,10 +2,11 @@ Data resources to potentially integrate into this project or other Louisville da
 
 _please feel free to comment or add to this page_
 
-*Key*
+__Symbol Key__
 - @ = already integrated into this LocalMotionKY open source project
 - & = open data with either CSV download or API available
 - ^ = open data with KML/KMZ download
+- ? = more research needed
 
 Data from [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data)
 ------------------------------------------------------------------------------------
@@ -24,4 +25,12 @@ Data from Federal Sources
 - & [Medicare Physician Compare (location, specialty, licenses)](https://data.medicare.gov/data/physician-compare) - office/address granularity
 - & [Health Indicators Warehouse](http://healthindicators.gov/Indicators/) - county granularity
   - 90 indicators available for Jefferson county
-- 
+- ? BRFSS for obesity/etc
+- ? Chronic Condition Warehouse - appears to only be as granular as state
+- ? National Health and Nutrition Examination Survey
+- ? HCUP Net
+- ? National Health Interview Survey
+- & Census data/American Community Survey - about healthcare insurance etc
+
+Data from Other Sources
+- ? [Gallup-Healthways Well-Being Index](http://www.well-beingindex.com/stateCongresDistrictRank.asp) - city level.. maybe we can get more ganular from them
