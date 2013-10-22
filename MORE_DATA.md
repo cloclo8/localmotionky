@@ -1,6 +1,4 @@
-Data resources to potentially integrate into this project or other Louisville data projects:
-
-_please feel free to comment or add to this page_
+Data resources to potentially integrate into this project or other Louisville data projects. _Please feel free to comment or add to this page._
 
 __Symbol Key__
 - @ = already integrated into this LocalMotionKY open source project
