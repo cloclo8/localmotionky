@@ -23,7 +23,8 @@ Data from Federal Sources
 - & [Medicare Physician Compare (location, specialty, licenses)](https://data.medicare.gov/data/physician-compare) - office/address granularity
 - & [Health Indicators Warehouse](http://healthindicators.gov/Indicators/) - county granularity
   - 90 indicators available for Jefferson county
-- ? BRFSS for obesity/etc
+- & [Medicare Inpatient Discharge Counts for Top 100 DRGs](http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Inpatient.html) - hospital/address granularity 
+- ? BRFSS for obesity/etc - CDC public data seems to be by state.. Lily to look into more grnular data for Kentucky data 
 - ? Chronic Condition Warehouse - appears to only be as granular as state
 - ? National Health and Nutrition Examination Survey
 - ? HCUP Net
