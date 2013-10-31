@@ -39,3 +39,5 @@ Data from Federal Sources
 Data from Other Sources
 -----------------------
 - ? [Gallup-Healthways Well-Being Index](http://www.well-beingindex.com/stateCongresDistrictRank.asp) - city level.. maybe we can get more ganular from them
+- ? Twitter data
+  - possibilities include tweet density by census track population, etc.
