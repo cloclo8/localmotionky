@@ -15,8 +15,8 @@ Data from [Louisville Open Data Portal](http://portal.louisvilleky.gov/service/d
 - ^ [Louisville Urban Neighborhoods](http://portal.louisvilleky.gov/dataset/urban-neighborhoods) - GIS file
 - ^ [Louisville Bike Routes](http://portal.louisvilleky.gov/dataset/bike-route-data) - GIS file
 - ^ [Louisville Neighborhood Outreach Areas](http://portal.louisvilleky.gov/dataset/neighborhood-outreach-areas) - GIS file
-- ^ [Louisville Property Maintenance Data] http://portal.louisvilleky.gov/dataset/property-data
-- ^ [Louisville ABC License Data] http://portal.louisvilleky.gov/dataset/license-data
+- ^ [Louisville Property Maintenance Data](http://portal.louisvilleky.gov/dataset/property-data)
+- ^ [Louisville ABC License Data](http://portal.louisvilleky.gov/dataset/license-data)
 
 Data from Federal Sources
 -------------------------
